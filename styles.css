@@ -294,9 +294,11 @@ body {
 .formBtn{
   transform: translate();
   text-align: center;
-  background-color: #a9acaf;
+  background-color: red;
+  color: white;
   font-size: 150%;
   margin-right: 2%;
+  
 }
 
 
